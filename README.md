@@ -5,6 +5,7 @@ level: 1
 type: resources
 ---
 
+##Design Principles - Visual Hierarchy
 Want to learn more about design principles and visual hierarchy? Here are some resources:
 
 + [Visual Design Principles](http://webstyleguide.com/wsg3/7-page-design/4-visual-design-principles.html)
