@@ -8,6 +8,8 @@ type: resources
 ##Design Principles - Visual Hierarchy
 Want to learn more about design principles and visual hierarchy? Here are some resources:
 
++ [Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf)
+
 + [Visual Design Principles](http://webstyleguide.com/wsg3/7-page-design/4-visual-design-principles.html)
 
 + [On Visual Hierarchy](http://blog.formedfunction.com/post/3029763425/on-visual-hierarchy)
@@ -17,4 +19,5 @@ Want to learn more about design principles and visual hierarchy? Here are some r
 + [Visual Hierarchy: How Well Does Your Design Communicate](http://www.vanseodesign.com/web-design/visual-hierarchy/)
 
 + [Contrast and Meaning](http://alistapart.com/article/contrastandmeaning)
+
 
