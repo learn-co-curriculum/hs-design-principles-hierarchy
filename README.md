@@ -1,5 +1,5 @@
 ---
-tags: kids, web design, intro, design principles
+tags: kids, web design, intro, design principles, visual hierarchy
 language: html, css
 level: 1
 type: resources
