@@ -1,9 +1,4 @@
----
-tags: kids, web design, intro, design principles, visual hierarchy
-language: html, css
-level: 1
-type: resources
----
+
 
 ##Design Principles - Visual Hierarchy
 Want to learn more about design principles and visual hierarchy? Here are some resources:
