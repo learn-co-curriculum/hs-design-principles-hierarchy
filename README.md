@@ -1,5 +1,5 @@
 ##Design Principles - Visual Hierarchy
-<img src="https://s3.amazonaws.com/after-school-assets/visual-hierarchy.png">
+<img src="https://s3.amazonaws.com/after-school-assets/visual-hierarchy.png"><br><br>
 Want to learn more about design principles and visual hierarchy? Here are some resources:
 
 + [Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf)
